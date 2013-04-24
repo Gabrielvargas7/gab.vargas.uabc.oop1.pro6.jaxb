@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:customerJaxbHelper xmlns:ns2="gab.vargas.uabc.oop1.pro6.jaxb.domain.jaxbhelper">
+    <customerList>
+        <age>50</age>
+        <id>1000</id>
+        <name>Juan</name>
+    </customerList>
+    <customerList>
+        <age>25</age>
+        <id>1001</id>
+        <name>Pedro</name>
+    </customerList>
+</ns2:customerJaxbHelper>
